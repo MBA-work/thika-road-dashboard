@@ -6,7 +6,7 @@ import plotly.express as px
 st.set_page_config(page_title="Thika Road Traffic Dashboard", layout="wide")
 
 st.title("🚗 Thika Road Traffic Dashboard: Personal Cars vs. Matatus")
-st.markdown("An interactive breakdown of vehicle volumes along Thika Superhighway.")
+st.markdown("An interactive breakdown of vehicles passing along Thika Superhighway on a Random day.")
 
 # Load dataset
 @st.cache_data
