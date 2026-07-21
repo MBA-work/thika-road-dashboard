@@ -1,0 +1,9 @@
+Time_of_Day,Vehicle_Type,Count,Direction
+Morning Peak,Personal Cars,4200,Inbound
+Morning Peak,Matatus,1100,Inbound
+Mid Day,Personal Cars,2100,Inbound
+Mid Day,Matatus,650,Inbound
+Evening Peak,Personal Cars,4800,Outbound
+Evening Peak,Matatus,1300,Outbound
+Off Peak,Personal Cars,1200,Outbound
+Off Peak,Matatus,400,Outbound
